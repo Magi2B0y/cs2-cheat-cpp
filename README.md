@@ -50,7 +50,7 @@ See [Releases page](https://github.com/yinleiCoder/cs2-cheat-cpp/releases)  for 
 	- VC++ Directories->Include Directories `dependencies/ImGui`
 - Offsets:
 	- [offsets](https://github.com/a2x/cs2-dumper/blob/main/output/offsets.hpp)
-	- [client.dll](https://github.com/a2x/cs2-dumper/blob/main/output/client.dll.hpp)
+	- [client_dll](https://github.com/a2x/cs2-dumper/blob/main/output/client_dll.hpp)
 	- [buttons](https://github.com/a2x/cs2-dumper/blob/main/output/buttons.hpp)
 - Packages:
 	- [ImGui](https://github.com/ocornut/imgui)
