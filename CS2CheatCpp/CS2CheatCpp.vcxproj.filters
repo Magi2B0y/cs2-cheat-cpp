@@ -98,13 +98,13 @@
     <ClInclude Include="src\weapon.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SDK\buttons.hpp">
+    <ClInclude Include="..\..\..\..\Downloads\buttons.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SDK\client.dll.hpp">
+    <ClInclude Include="..\..\..\..\Downloads\client_dll.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="SDK\offsets.hpp">
+    <ClInclude Include="..\..\..\..\Downloads\offsets.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

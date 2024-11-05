@@ -17,7 +17,7 @@
 #include "bone.hpp"
 #include "weapon.hpp"
 #include "entity.h"
-#include "../SDK/client.dll.hpp"
+#include "../SDK/client_dll.hpp"
 #include "../SDK/offsets.hpp"
 #include "../SDK/buttons.hpp"
 

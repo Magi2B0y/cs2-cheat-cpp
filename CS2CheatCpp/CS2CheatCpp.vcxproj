@@ -163,6 +163,9 @@
     <ClCompile Include="src\memory\memory.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Downloads\buttons.hpp" />
+    <ClInclude Include="..\..\..\..\Downloads\client_dll.hpp" />
+    <ClInclude Include="..\..\..\..\Downloads\offsets.hpp" />
     <ClInclude Include="dependencies\ImGui\imconfig.h" />
     <ClInclude Include="dependencies\ImGui\imgui.h" />
     <ClInclude Include="dependencies\ImGui\imgui_impl_dx11.h" />
@@ -172,9 +175,6 @@
     <ClInclude Include="dependencies\ImGui\imstb_textedit.h" />
     <ClInclude Include="dependencies\ImGui\imstb_truetype.h" />
     <ClInclude Include="resource1.h" />
-    <ClInclude Include="SDK\buttons.hpp" />
-    <ClInclude Include="SDK\client.dll.hpp" />
-    <ClInclude Include="SDK\offsets.hpp" />
     <ClInclude Include="src\bone.hpp" />
     <ClInclude Include="src\entity.h" />
     <ClInclude Include="src\gui.h" />
